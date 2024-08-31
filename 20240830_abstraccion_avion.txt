@@ -1,0 +1,21 @@
+1. despegar(): Iniciar el proceso de elevación desde la pista.
+
+2. aterrizar(): Realizar el descenso controlado y tocar tierra de manera segura.
+
+3. ajustarAltitud(): Modificar la altura de vuelo según sea necesario.
+
+4. cambiarVelocidad(): Aumentar o disminuir la velocidad del avión.
+
+5. comunicarTorreControl(): Establecer y mantener comunicación con el control de tráfico aéreo.
+
+6. activarPilotoAutomatico(): Habilitar el sistema de vuelo automático.
+
+7. desplegarTrenAterrizaje(): Extender el tren de aterrizaje antes de tocar tierra.
+
+8. controlarCombustible(): Monitorear y gestionar el consumo de combustible.
+
+9. navegarRuta(): Seguir la ruta de vuelo planificada utilizando sistemas de navegación.
+
+10. gestionarEmergencias(): Activar protocolos y sistemas de seguridad en caso de situaciones imprevistas.
+atributos: Materiales: Metal. Acero. Inputs: Direcciones. Navegador. Piloto. Copiloto. 
+
